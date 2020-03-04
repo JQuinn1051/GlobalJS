@@ -24,4 +24,6 @@ Please make sure to update tests as appropriate.
 
 
 ## Website
-[https://globaljs.pw]
+```bash
+Visit https://globaljs.pw for more information. You can download the latest release at https://globaljs.pw/release/0.1.zip
+```
